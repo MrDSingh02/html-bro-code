@@ -1,2 +1,25 @@
 # html-bro-code
 learn html by Bro Code
+
+
+HTML full course tutorial for beginners
+
+#HTML #course #tutorial
+
+⭐️Time Stamps⭐️
+* #1   (00:00:00)​ HTML tutorial for beginners 🌎           
+* #2   (00:09:40)​ hyperlinks 👈        
+* #3   (00:12:41)​ images 📷        
+* #4   (00:16:30)​ audio 🔊     
+* #5   (00:19:10)​ video 🎥     
+* #6   (00:21:37)​ text formatting 💬       
+* #7   (00:23:42)​ lists 📋     
+* #8   (00:28:18)​ tables 📊        
+* #9   (00:32:16)​ colors 🖍️        
+* #10 (00:35:56)​ span & div 🏁     
+* #11 (00:38:07)​ meta tags 🏷️      
+* #12 (00:42:03)​ iframes 🖼️        
+* #13 (00:45:59)​ buttons 🛎️        
+* #14 (00:51:06)​ forms 📝      
+
+---
